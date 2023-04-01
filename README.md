@@ -19,6 +19,9 @@ Here, we have used both Classification and Regression methods. Classification fo
 ## 🚀 About Me
 I'm a passionate data scientist who is actively learning the use of Data Science and Machine Learning is the field of Finance.
 
+### Link of Dataset
+https://www.kaggle.com/datasets/boss0ayush/loan-sanction-amount-prediction-data?select=train.csv
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.kaggle.com/samarchhetri)
